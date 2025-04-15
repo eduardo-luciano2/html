@@ -13,3 +13,5 @@ function hora(){
   }
 
   hora();
+
+  setInterval(hora,1000)
